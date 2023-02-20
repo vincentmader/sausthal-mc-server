@@ -1,0 +1,2 @@
+- run `make` to start server
+- access on `localhost:25565`
